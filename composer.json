@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "go1\\api\\": "./"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
